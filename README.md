@@ -1,6 +1,6 @@
 ## 👋🏻 Introducing Myself
 
-Hello! I'm Raphael, a Data Science and Machine Learning Enthusiast passionate about extracting insights from data, building predictive models, and creating impactful data visualizations. I specialize in using Python, SQL, and machine learning to solve complex business problems.
+Hello! I'm Raphael, a Data Science and Machine Learning enthusiast passionate about extracting insights from data, building predictive models, and creating impactful data visualizations. I specialize in using Python, SQL, and machine learning to solve complex business problems.
 <br>
 </br>
 📂 **Projects**
