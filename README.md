@@ -1,18 +1,20 @@
 ## 👋🏻 Introducing Myself
 
 Hello! I'm Raphael, a Data Science and Machine Learning enthusiast passionate about extracting insights from data, building predictive models, and creating impactful data visualizations. I specialize in using Python, SQL, and machine learning to solve complex business problems.
-<br>
-</br>
+
+---
+
 📂 **Projects**
-Welcome to my [portfolio](https://raphaelmpimentel.github.io/portfolio_projetos/), where I showcase my projects
-<br>
-</br>
+- Welcome to my [portfolio](https://raphaelmpimentel.github.io/portfolio_projetos/), where I showcase my projects
+
+
  🚀 **Tools**
 - Data Analysis: Python, SQL
 - Machine Learning: Sklearn, XGBoost
 - Visualization: Matplotlib, Seaborn, Plotly
 - Cloud Platforms: AWS, GCP
 - Software Development: Streamlit, Flask and Git
+
   
 🎓 **Certifications**
 - Machine Learning Fundamentals, Data Analysis with Python, SQL, Virtual Environment in Python and Git for Data Science.
