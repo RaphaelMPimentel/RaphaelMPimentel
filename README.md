@@ -9,11 +9,11 @@ Hello! I'm Raphael, a Data Science and Machine Learning enthusiast passionate ab
 
 
  🚀 **Tools**
-- Data Analysis: Python and SQL
-- Machine Learning: Sklearn and XGBoost
-- Visualization: Matplotlib, Seaborn and Plotly
+- Data Analysis: Python, R, Excel and SQL
+- Visualization: Power BI and Streamlit
+- Version Control and IDEs: Git, Github, Jupyter Notebook and VS Code
 - Cloud Platforms: AWS and GCP
-- Software Development: Streamlit, Flask and Git
+- Frameworks: XGBoost, Scikit-Learn, Pandas, Numpy, Seaborn e Plotly
 
   
 🎓 **Certifications**
