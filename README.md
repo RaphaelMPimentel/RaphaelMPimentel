@@ -9,11 +9,16 @@ Hello! I'm Raphael, a Data Science and Machine Learning enthusiast passionate ab
 
 
  🚀 **Tools**
-- Data Analysis: Python, R, Excel and SQL
-- Visualization: Power BI and Streamlit
-- Version Control and IDEs: Git, Github, Jupyter Notebook and VS Code
-- Cloud Platforms: AWS and GCP
-- Frameworks: XGBoost, Scikit-Learn, Pandas, Numpy, Seaborn e Plotly
+- Languages: English - Fluent | Portuguese - Native
+- Data Analysis: Python, Excel, SQL, and Databricks
+- Data Visualization: Power BI and Streamlit
+- Databases: PostgreSQL
+- Statistics: A/B Testing, Regression, Classification, and Clustering
+- Machine Learning: Supervised, Unsupervised, and Reinforcement Learning
+- Version Control and IDEs: Git, Github, Jupyter Notebook, and VS Code
+- Cloud Tools: AWS
+- Frameworks: XGBoost, Scikit-Learn, Pandas, Numpy, Seaborn, and Plotly
+- Methodologies: Scrum and Kanban
 
   
 🎓 **Certifications**
