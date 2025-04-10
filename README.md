@@ -17,7 +17,7 @@ Hello! I'm Raphael, a Data Science and Machine Learning enthusiast passionate ab
 - Machine Learning: Supervised, Unsupervised, and Reinforcement Learning
 - Version Control and IDEs: Git, Github, Jupyter Notebook, and VS Code
 - Cloud Tools: AWS
-- Frameworks: XGBoost, Scikit-Learn, Pandas, Numpy, Seaborn, and Plotly
+- Frameworks: XGBoost, Scikit-Learn, Pandas, Numpy, Seaborn and Plotly
 - Methodologies: Scrum and Kanban
 
   
