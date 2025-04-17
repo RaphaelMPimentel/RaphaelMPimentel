@@ -10,7 +10,7 @@ Hello! I'm Raphael, a Data Science and Machine Learning enthusiast passionate ab
 
  🚀 **Tools**
 - Languages: English - Fluent | Portuguese - Native
-- Data Analysis: Python, Excel, SQL, and Databricks
+- Data Analysis: Python, Excel, SQL and Databricks
 - Data Visualization: Power BI and Streamlit
 - Databases: PostgreSQL
 - Statistics: A/B Testing, Regression, Classification, and Clustering
